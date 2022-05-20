@@ -5,8 +5,11 @@ that were edited then add them to github. The other person will then edit their 
 file to match it. When editing a script in unity, add a comment that says NEW above and below
 any new code.
 
+Do not work on scripts that other people are working on.
+
+
    Do first:
-Movement
+WT Movement
 Weapons and armour system ( with weapon and armour changing at save points.)
 Room system
 Save system ( with lit and unlit fires )
