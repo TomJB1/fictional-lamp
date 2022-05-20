@@ -1,2 +1,19 @@
 Write any scripts that need to be written or behaviors ext that need to be written
-If you start working on something add W in front of the line. When finished add D in front (delete the W) and write the names of any files that were edited then add them to github. The other person will then edit their copy of the file to match it.
+If you start working on something add W and then your initial (for example WT) in front
+of the line. When finished add D in front (delete the W) and write the names of any files 
+that were edited then add them to github. The other person will then edit their copy of the
+file to match it. When editing a script in unity, add a comment that says NEW above and below
+any new code.
+
+   Do first:
+Movement
+Weapons and armour system ( with weapon and armour changing at save points.)
+Room system
+Save system ( with lit and unlit fires )
+Map system
+
+   Mob Ais:
+Normal 'patrolling' mob ai
+Fairy ai ( flies to hight of player then rapidly shoots magic bolts)
+
+   Boss ai:
